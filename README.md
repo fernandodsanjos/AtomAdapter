@@ -1,0 +1,2 @@
+# AtomAdapter
+BizTalk AtomAdapter
